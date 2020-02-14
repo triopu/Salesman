@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483158731311",
+    "firebase_url": "https://salesman-1709.firebaseio.com",
+    "project_id": "salesman-1709",
+    "storage_bucket": "salesman-1709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483158731311:android:a4b6db41221bf3fc2b74da",
+        "android_client_info": {
+          "package_name": "triopu.demo_salesman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483158731311-0oplvvt8q5bei4vopotbr8df9eca1vtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjFDmZCrzCEDLDEjIPSBbd97SLvQzNmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483158731311-0oplvvt8q5bei4vopotbr8df9eca1vtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
