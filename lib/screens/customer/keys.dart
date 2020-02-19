@@ -1,1 +1,1 @@
-var apiKey = 'AIzaSyCqB7Goo-uchL3LzCy7lt5m-Y6OadYHbEY';
+var apiKey = '';
